@@ -1,1 +1,24 @@
 /* You can add global styles to this file, and also import other style files */
+
+*{
+    padding: 0;
+    margin: 0;
+}
+app-announcement-bar{
+    border: 1px solid #a1328c;
+    width: 100%;
+    display: block;
+    padding: 0;
+    margin: 0;
+    background: #a1328c;
+    height: 50px;
+}
+
+app-header-bar{
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    height: 112px;
+
+}
